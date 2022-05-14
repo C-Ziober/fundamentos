@@ -2,7 +2,7 @@
 // booleanos 
 
 // conversão implícita
-const numero = 4456;
+const numero = 445336;
 const numeroString = "456";
 
 // //Number()
